@@ -1,6 +1,6 @@
 # Flutter_chatBot
 
-## Chatbot Which can act like support assistant.
+## Chatbot Which can act like support assistant. This program that can conduct an intelligent conversation. It should be able to convincingly simulate human behavior.
 
 ### Here We integrated this chatbot to dialog flow, which enables it to reply to certain stimulated questions which can be acheived by dialogflow.
 
