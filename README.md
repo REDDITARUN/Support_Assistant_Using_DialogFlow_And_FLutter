@@ -1,4 +1,4 @@
-# flutter_chatBot
+# Flutter_chatBot
 
 ## Chatbot Which can act like support assistant.
 
